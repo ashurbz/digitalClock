@@ -1,0 +1,31 @@
+.main{
+    /* display: flex; */
+    text-align: center;
+
+}
+.clock{
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+#date{
+    text-align: left;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 10px;
+}
+
+h1{
+    font-size:xxx-large;
+     
+}
+
+body{
+margin: 0;
+}
