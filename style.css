@@ -1,8 +1,9 @@
+/* centre whole div */
 .main{
-    /* display: flex; */
     text-align: center;
 
 }
+/* styling to clock */
 .clock{
     padding: 10px;
     text-align: center;
@@ -14,6 +15,7 @@
 
 
 }
+/* styling to date */
 #date{
     text-align: left;
     background-color: black;
